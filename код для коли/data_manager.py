@@ -1,10 +1,10 @@
 import requests
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import datetime
 import os
 import time
 
-load_dotenv()
+# load_dotenv()
 
 
 # =========== Get today's date, month and year ===========
