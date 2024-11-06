@@ -1,10 +1,10 @@
 import requests
 import datetime as dt
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import os
 import time
 
-load_dotenv()
+# load_dotenv()
 
 # =========== Get today's date ===========
 today = dt.datetime.today()  # dt.datetime(year=2024, month=10, day=16, hour=10)
